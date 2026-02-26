@@ -105,7 +105,9 @@ make train
 Generate Predictions
 make predict
 
-Business Impact
+```
+
+## Business Impact
 
 This platform enables:
 
@@ -119,7 +121,7 @@ Reduced idle vehicle time
 
 Data-driven mobility strategy
 
-Future Enhancements
+## Future Enhancements
 
 Distributed processing with Apache Spark
 
@@ -131,6 +133,6 @@ Real-time streaming with Kafka
 
 REST API for demand serving
 
-🛠 Tech Stack
+## Tech Stack
 
 Python | Pandas | Scikit-learn | XGBoost | Matplotlib | Seaborn | Modular ETL | Makefile Automation
