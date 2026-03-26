@@ -1,4 +1,4 @@
-# Urban Mobility Analytics Data Platform  
+# NYC Taxi Demand Forecasting- Time-Series Ensemble Learning
 ### Scalable Demand Forecasting for NYC Taxi Operations
 
 Predicting cab demand across New York City using a structured, production-ready data engineering pipeline. This platform processes large-scale NYC taxi trip records to forecast ride demand across future time intervals, enabling data-driven fleet optimization and operational planning.
